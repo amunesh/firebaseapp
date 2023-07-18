@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/firebaseapp/static/css/main.e7ff4661.chunk.css",
-    "main.js": "/firebaseapp/static/js/main.227469a2.chunk.js",
-    "main.js.map": "/firebaseapp/static/js/main.227469a2.chunk.js.map",
+    "main.js": "/firebaseapp/static/js/main.b1b0c750.chunk.js",
+    "main.js.map": "/firebaseapp/static/js/main.b1b0c750.chunk.js.map",
     "runtime-main.js": "/firebaseapp/static/js/runtime-main.ce76c410.js",
     "runtime-main.js.map": "/firebaseapp/static/js/runtime-main.ce76c410.js.map",
     "static/js/2.3daedfcb.chunk.js": "/firebaseapp/static/js/2.3daedfcb.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ce76c410.js",
     "static/js/2.3daedfcb.chunk.js",
     "static/css/main.e7ff4661.chunk.css",
-    "static/js/main.227469a2.chunk.js"
+    "static/js/main.b1b0c750.chunk.js"
   ]
 }
